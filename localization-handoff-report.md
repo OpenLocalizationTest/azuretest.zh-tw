@@ -1,58 +1,19 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 4
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [articles\best-practices-caching.md](https://github.com/OpenLocalizationTest/azuretest/blob/87fd1a7d745aac8784fab13f6e6dda5c9b6399c5/articles/best-practices-caching.md) | HandedOffSuccess | [Details](#7c4c154e63f9e53887f2831b7206df118625aaf96622)
- [articles\machine-learning\machine-learning-recommendation-api-documentation.md](https://github.com/OpenLocalizationTest/azuretest/blob/a284e21ae3e0d4ff99d3d2021eda47c391b95c2c/articles/machine-learning/machine-learning-recommendation-api-documentation.md) | HandedOffSuccess | [Details](#bfac32ddb44417e31ddac83d149a4bed6dec2bd58617)
- [articles\machine-learning\machine-learning-recommendation-api-documentation-v1.md](https://github.com/OpenLocalizationTest/azuretest/blob/a284e21ae3e0d4ff99d3d2021eda47c391b95c2c/articles/machine-learning/machine-learning-recommendation-api-documentation-v1.md) | HandedOffSuccess | [Details](#8b0b0f901cbe443280cd2d07568a14912bd237198616)
- [articles\storage\storage-table-design-guide.md](https://github.com/OpenLocalizationTest/azuretest/blob/a284e21ae3e0d4ff99d3d2021eda47c391b95c2c/articles/storage/storage-table-design-guide.md) | HandedOffSuccess | [Details](#28cca48c528f57bc506d83dfa435b3a456eef94915056)
+ [articles\best-practices-caching.md](https://github.com/OpenLocalizationTest/azuretest/blob/e41067dfc66225ff41d64efe3927d1531d4a61e8/articles/best-practices-caching.md) | HandedOffSuccess | [Details](#91791e07741d305634cea6aaeea38504df9138f26622)
 
 ## Item Details
-##### <a name='7c4c154e63f9e53887f2831b7206df118625aaf96622'></a> Source: [articles\best-practices-caching.md](https://github.com/OpenLocalizationTest/azuretest/blob/87fd1a7d745aac8784fab13f6e6dda5c9b6399c5/articles/best-practices-caching.md)
+##### <a name='91791e07741d305634cea6aaeea38504df9138f26622'></a> Source: [articles\best-practices-caching.md](https://github.com/OpenLocalizationTest/azuretest/blob/e41067dfc66225ff41d64efe3927d1531d4a61e8/articles/best-practices-caching.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [best-practices-caching.e5800df751eb0aab239d075ab6c58b592a5ff488.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/09385d1f0b28e4b0f5a1b5f24c05b2741f288dd5/ol-handoff/OpenLocalizationTest/azuretest.zh-tw/performance/best-practices-caching.e5800df751eb0aab239d075ab6c58b592a5ff488.zh-tw.xlf)
-* Handoff Datetime: 2016-03-01 03:19:31
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='bfac32ddb44417e31ddac83d149a4bed6dec2bd58617'></a> Source: [articles\machine-learning\machine-learning-recommendation-api-documentation.md](https://github.com/OpenLocalizationTest/azuretest/blob/a284e21ae3e0d4ff99d3d2021eda47c391b95c2c/articles/machine-learning/machine-learning-recommendation-api-documentation.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [machine-learning-recommendation-api-documentation.dca792d010dcda1da26fa34620d0cce19269209a.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/09385d1f0b28e4b0f5a1b5f24c05b2741f288dd5/ol-handoff/OpenLocalizationTest/azuretest.zh-tw/performance/machine-learning-recommendation-api-documentation.dca792d010dcda1da26fa34620d0cce19269209a.zh-tw.xlf)
-* Handoff Datetime: 2016-03-01 03:19:31
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='8b0b0f901cbe443280cd2d07568a14912bd237198616'></a> Source: [articles\machine-learning\machine-learning-recommendation-api-documentation-v1.md](https://github.com/OpenLocalizationTest/azuretest/blob/a284e21ae3e0d4ff99d3d2021eda47c391b95c2c/articles/machine-learning/machine-learning-recommendation-api-documentation-v1.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [machine-learning-recommendation-api-documentation-v1.c93b5b1e693f114e7d800c30f7c8d7f87bc85d23.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/09385d1f0b28e4b0f5a1b5f24c05b2741f288dd5/ol-handoff/OpenLocalizationTest/azuretest.zh-tw/performance/machine-learning-recommendation-api-documentation-v1.c93b5b1e693f114e7d800c30f7c8d7f87bc85d23.zh-tw.xlf)
-* Handoff Datetime: 2016-03-01 03:19:31
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='28cca48c528f57bc506d83dfa435b3a456eef94915056'></a> Source: [articles\storage\storage-table-design-guide.md](https://github.com/OpenLocalizationTest/azuretest/blob/a284e21ae3e0d4ff99d3d2021eda47c391b95c2c/articles/storage/storage-table-design-guide.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [storage-table-design-guide.e762807f8eb1dca411641daf83185fc035c7fe5e.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/09385d1f0b28e4b0f5a1b5f24c05b2741f288dd5/ol-handoff/OpenLocalizationTest/azuretest.zh-tw/performance/storage-table-design-guide.e762807f8eb1dca411641daf83185fc035c7fe5e.zh-tw.xlf)
-* Handoff Datetime: 2016-03-01 03:19:31
+* Handoff File: [best-practices-caching.e5800df751eb0aab239d075ab6c58b592a5ff488.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/ef0b486a23abc59ceac15f6542ad1697915bdb91/ol-handoff/OpenLocalizationTest/azuretest.zh-tw/performance/best-practices-caching.e5800df751eb0aab239d075ab6c58b592a5ff488.zh-tw.xlf)
+* Handoff Datetime: 2016-03-01 07:35:59
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
