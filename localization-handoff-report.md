@@ -1,19 +1,32 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [includes\app-service-hybrid-connections-manager-install.md](https://github.com/OpenLocalizationTest/azuretest/blob/d5fac9e14feff772e13fc018255f8186ed2876f9/includes/app-service-hybrid-connections-manager-install.md) | HandedOffSuccess | [Details](#194e4bed98b348b5b4d6e1843477d856a67f1b8216665)
+ [articles\app-service-mobile\app-service-mobile-dotnet-backend-ios-aad-sso-preview.md](https://github.com/OpenLocalizationTest/azuretest/blob/cf8a401754d07ec7f0036d35a28e871740202f87/articles/app-service-mobile/app-service-mobile-dotnet-backend-ios-aad-sso-preview.md) | HandedOffSuccess | [Details](#89b9d263d13b9935473aec2f0def6c809ea303394441)
+ [articles\app-service-mobile\app-service-mobile-dotnet-backend-ios-push-notifications-to-users-preview.md](https://github.com/OpenLocalizationTest/azuretest/blob/cf8a401754d07ec7f0036d35a28e871740202f87/articles/app-service-mobile/app-service-mobile-dotnet-backend-ios-push-notifications-to-users-preview.md) | HandedOffSuccess | [Details](#f56ffd93909f6bf59eec0a9de60a6d8113cb817f4445)
 
 ## Item Details
-##### <a name='194e4bed98b348b5b4d6e1843477d856a67f1b8216665'></a> Source: [includes\app-service-hybrid-connections-manager-install.md](https://github.com/OpenLocalizationTest/azuretest/blob/d5fac9e14feff772e13fc018255f8186ed2876f9/includes/app-service-hybrid-connections-manager-install.md)
+##### <a name='89b9d263d13b9935473aec2f0def6c809ea303394441'></a> Source: [articles\app-service-mobile\app-service-mobile-dotnet-backend-ios-aad-sso-preview.md](https://github.com/OpenLocalizationTest/azuretest/blob/cf8a401754d07ec7f0036d35a28e871740202f87/articles/app-service-mobile/app-service-mobile-dotnet-backend-ios-aad-sso-preview.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [app-service-hybrid-connections-manager-install.3c65846e0767bad49cd27ed6205b31e35f97d814.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/bc63d11268f86e4bb37c3e11d875b28d62f91cea/ol-handoff/OpenLocalizationTest/azuretest.zh-tw/master/ht/app-service-hybrid-connections-manager-install.3c65846e0767bad49cd27ed6205b31e35f97d814.zh-tw.xlf)
-* Handoff Datetime: 2016-03-14 05:44:53
+* Handoff File: [app-service-mobile-dotnet-backend-ios-aad-sso-preview.8b82eb0b9d655d20393802fd1a13fcc8400b15b6.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/7fc160511997b1d958414eecea7ffe6c74e5f32d/ol-handoff/OpenLocalizationTest/azuretest.zh-tw/master/test-priority-high/app-service-mobile-dotnet-backend-ios-aad-sso-preview.8b82eb0b9d655d20393802fd1a13fcc8400b15b6.zh-tw.xlf)
+* Handoff Datetime: 2016-03-15 06:21:18
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='f56ffd93909f6bf59eec0a9de60a6d8113cb817f4445'></a> Source: [articles\app-service-mobile\app-service-mobile-dotnet-backend-ios-push-notifications-to-users-preview.md](https://github.com/OpenLocalizationTest/azuretest/blob/cf8a401754d07ec7f0036d35a28e871740202f87/articles/app-service-mobile/app-service-mobile-dotnet-backend-ios-push-notifications-to-users-preview.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [app-service-mobile-dotnet-backend-ios-push-notifications-to-users-preview.ca1f8af01f45371a014ac30899b49b8ef8df47a1.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/7fc160511997b1d958414eecea7ffe6c74e5f32d/ol-handoff/OpenLocalizationTest/azuretest.zh-tw/master/test-priority-high/app-service-mobile-dotnet-backend-ios-push-notifications-to-users-preview.ca1f8af01f45371a014ac30899b49b8ef8df47a1.zh-tw.xlf)
+* Handoff Datetime: 2016-03-15 06:21:18
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00

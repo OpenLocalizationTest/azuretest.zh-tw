@@ -12717,6 +12717,9 @@
   "323840afc8b15eb8b6628d490f4c6bfcd284c4e1": [
     "articles\\app-service-mobile\\media\\app-service-mobile-dotnet-backend-hybrid-connections-get-started-preview\\set-sql-server-database-connection.png"
   ],
+  "89b9d263d13b9935473aec2f0def6c809ea30339": [
+    "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-ios-aad-sso-preview.md"
+  ],
   "7a7ff1d62b70a4a0d0bb4e0babf905b542c385f3": [
     "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-ios-aad-sso-preview.md"
   ],
@@ -12740,6 +12743,9 @@
   ],
   "38caff41c97e03d91ee51177dbfa4b253be18f14": [
     "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-ios-get-started-users-preview.md"
+  ],
+  "f56ffd93909f6bf59eec0a9de60a6d8113cb817f": [
+    "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-ios-push-notifications-to-users-preview.md"
   ],
   "9952b255cf2b5810022cf4a3baf85d9fc323d22e": [
     "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-ios-push-notifications-to-users-preview.md"
