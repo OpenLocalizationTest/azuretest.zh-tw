@@ -1,32 +1,19 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [articles\app-service-mobile\app-service-mobile-dotnet-backend-ios-aad-sso-preview.md](https://github.com/OpenLocalizationTest/azuretest/blob/cf8a401754d07ec7f0036d35a28e871740202f87/articles/app-service-mobile/app-service-mobile-dotnet-backend-ios-aad-sso-preview.md) | HandedOffSuccess | [Details](#89b9d263d13b9935473aec2f0def6c809ea303394441)
- [articles\app-service-mobile\app-service-mobile-dotnet-backend-ios-push-notifications-to-users-preview.md](https://github.com/OpenLocalizationTest/azuretest/blob/cf8a401754d07ec7f0036d35a28e871740202f87/articles/app-service-mobile/app-service-mobile-dotnet-backend-ios-push-notifications-to-users-preview.md) | HandedOffSuccess | [Details](#f56ffd93909f6bf59eec0a9de60a6d8113cb817f4445)
+ [articles\architecture-overview.md](https://github.com/OpenLocalizationTest/azuretest/blob/3917d6d2e5dd6c1c0d72cdfa658bb8c83e3eeb15/articles/architecture-overview.md) | HandedOffSuccess | [Details](#b42ed47cbd1add513f33dbc598074d630d49a2ba6177)
 
 ## Item Details
-##### <a name='89b9d263d13b9935473aec2f0def6c809ea303394441'></a> Source: [articles\app-service-mobile\app-service-mobile-dotnet-backend-ios-aad-sso-preview.md](https://github.com/OpenLocalizationTest/azuretest/blob/cf8a401754d07ec7f0036d35a28e871740202f87/articles/app-service-mobile/app-service-mobile-dotnet-backend-ios-aad-sso-preview.md)
+##### <a name='b42ed47cbd1add513f33dbc598074d630d49a2ba6177'></a> Source: [articles\architecture-overview.md](https://github.com/OpenLocalizationTest/azuretest/blob/3917d6d2e5dd6c1c0d72cdfa658bb8c83e3eeb15/articles/architecture-overview.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [app-service-mobile-dotnet-backend-ios-aad-sso-preview.8b82eb0b9d655d20393802fd1a13fcc8400b15b6.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/7fc160511997b1d958414eecea7ffe6c74e5f32d/ol-handoff/OpenLocalizationTest/azuretest.zh-tw/master/test-priority-high/app-service-mobile-dotnet-backend-ios-aad-sso-preview.8b82eb0b9d655d20393802fd1a13fcc8400b15b6.zh-tw.xlf)
-* Handoff Datetime: 2016-03-15 06:21:18
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='f56ffd93909f6bf59eec0a9de60a6d8113cb817f4445'></a> Source: [articles\app-service-mobile\app-service-mobile-dotnet-backend-ios-push-notifications-to-users-preview.md](https://github.com/OpenLocalizationTest/azuretest/blob/cf8a401754d07ec7f0036d35a28e871740202f87/articles/app-service-mobile/app-service-mobile-dotnet-backend-ios-push-notifications-to-users-preview.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [app-service-mobile-dotnet-backend-ios-push-notifications-to-users-preview.ca1f8af01f45371a014ac30899b49b8ef8df47a1.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/7fc160511997b1d958414eecea7ffe6c74e5f32d/ol-handoff/OpenLocalizationTest/azuretest.zh-tw/master/test-priority-high/app-service-mobile-dotnet-backend-ios-push-notifications-to-users-preview.ca1f8af01f45371a014ac30899b49b8ef8df47a1.zh-tw.xlf)
-* Handoff Datetime: 2016-03-15 06:21:18
+* Handoff File: [architecture-overview.28976b27aca11944f5c097e2ea8a44d47035debc.zh-tw.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/11c17f57f677e5cd8824e9b96170fe32f0271be2/ol-handoff/OpenLocalizationTest/azuretest.zh-tw/master/ht/architecture-overview.28976b27aca11944f5c097e2ea8a44d47035debc.zh-tw.xlf)
+* Handoff Datetime: 2016-03-21 10:37:49
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00

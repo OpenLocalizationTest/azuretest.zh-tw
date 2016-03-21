@@ -17664,6 +17664,9 @@
   "a0cfff21cff6797db5380b429c77d67e6653b383": [
     "articles\\application-insights\\app-service-app-insights-get-started.md"
   ],
+  "b42ed47cbd1add513f33dbc598074d630d49a2ba": [
+    "articles\\architecture-overview.md"
+  ],
   "4b3345107ae5a64aa118ba8e2bc7e0b2a156def1": [
     "articles\\architecture-overview.md"
   ],
@@ -43089,7 +43092,8 @@
     "includes\\media\\mobile-services-android-get-started-push\\mobile-google-set-project-properties.png"
   ],
   "c5dc861fddc5357d5a08f3a179a2560ba153c267": [
-    "includes\\mobile-services-add-Google-play-services.md"
+    "includes\\mobile-services-add-Google-play-services.md",
+    "includes\\mobile-services-add-google-play-services.md"
   ],
   "5401e47ac2c3ba3968cc649b7247febe46c6971c": [
     "includes\\media\\mobile-services-android-get-started-push\\android-studio-push-build-gradle.png"
@@ -43426,7 +43430,8 @@
     "includes\\media\\mobile-services-download-service-locally\\download-service-project.png"
   ],
   "57d891b3683b7a48a894ae93a26440c3f750c72c": [
-    "includes\\mobile-services-enable-Google-cloud-messaging.md"
+    "includes\\mobile-services-enable-Google-cloud-messaging.md",
+    "includes\\mobile-services-enable-google-cloud-messaging.md"
   ],
   "64896b67b8d234eeb6d1a440d361cf2ef52cef99": [
     "includes\\media\\notification-hubs-android-get-started\\mobile-services-google-new-project.png"
@@ -44669,10 +44674,12 @@
     "includes\\media\\virtual-machines-choose-me-content\\diagram.png"
   ],
   "1861bdbd70b3d39bfae11d662a2af27a01868e1b": [
-    "includes\\virtual-machines-create-LinuxVM.md"
+    "includes\\virtual-machines-create-LinuxVM.md",
+    "includes\\virtual-machines-create-linuxvm.md"
   ],
   "caf9026138c5e57c5e61bbdc908ae536e495dc17": [
-    "includes\\virtual-machines-create-WindowsVM.md"
+    "includes\\virtual-machines-create-WindowsVM.md",
+    "includes\\virtual-machines-create-windowsvm.md"
   ],
   "6c1e05474deafb83aed9c6dab3ab36f29dff2084": [
     "includes\\media\\virtual-machines-create-WindowsVM\\fromgallery.png"
